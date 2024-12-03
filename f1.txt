@@ -1,3 +1,10 @@
+<<<<<<< Updated upstream
 us 131
 continuous to work
 soem repo missing 
+=======
+hi hello 
+how are you 
+US 12
+heow lsdflasdjlfj1
+>>>>>>> Stashed changes
